@@ -1,7 +1,5 @@
 ![oooawe Laboratory](/assets/oooaweLab.png)
 
-
-- [x] 🔭 I’m living in Japan.
 - [x] ✍️ I’m still learning English.
 - [x] 🧪 I’m currently majoring in Neuroscience and Natural Sciences.
 - [x] 📜 I hold a master’s degree in engineering.
