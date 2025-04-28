@@ -1,7 +1,6 @@
 ![oooawe Laboratory](assets/oawelaboratory.png)
 
 - [x] ✍️ I’m still learning English.
-- [x] 🧪 I’m currently majoring in Neuroscience and Natural Sciences.
 
 --  
   
