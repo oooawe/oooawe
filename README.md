@@ -4,9 +4,8 @@
 - [x] 🧪 I’m currently majoring in Neuroscience and Natural Sciences.
 
 --  
-
-- [ ] 👋 Hi there!   
-I'm a designer and an intuition-driven geek who's just getting started with GitHub.  
+  
+I'm a nerd and an intuition-driven geek who's just getting started with GitHub.  
 Finally graduating from FTP days (lol). Looking forward to learning and growing here! 🚀
 
 --  
