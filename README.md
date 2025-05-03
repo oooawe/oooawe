@@ -1,7 +1,4 @@
 ![oooawe Laboratory](assets/oawelaboratory.png)
-
-- [x] ✍️ I’m still learning English.
-
 --  
   
 I'm a nerd and an intuition-driven geek who's just getting started with GitHub.  
