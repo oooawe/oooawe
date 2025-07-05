@@ -8,7 +8,7 @@ Finally graduating from FTP days... Looking forward to learning and growing here
 <hr />
 
 - [x] 🐥 I’m looking for help with ... everythings　　　
-- [x] 🐥 Ask me about ... web1.0, geocities, macOS8,9,X　　　
-- [x] 🐥 How to reach me: ... How to reach me: Hotline client or ICQ. (Just kidding… email or Telegram works just fine!)　
-- [x] ⚡ Fun fact: ... Xcode and Modern Cording Tools and ResEdit aaaand Here
+- [x] 🐥 Ask me about ... Web1.0, Geocities, MacOS8,9,X and later, History of macromedia Flash, Adobe graphic tech.　
+- [x] 🐥 How to reach me: ... Hotline Client or ICQ or Call 911 (Just kidding... email or Telegram works just fine! 
+- [x] ⚡ Fun fact: ... Xcode and Modern coding tools and ResEdit aaaand Here
 <hr />
